@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="white">#fff</color>
+    <color name="trans_black">#08000000</color>
+    <color name="pink">#F20067</color>
+    <color name="pink_select">#DF3289</color>
+    <color name="red">#CF0900</color>
+    <color name="trans_button">#80868686</color>
+    <color name="trans_button_select">#80F20067</color>
+    <color name="activity_background">#F2F2F2</color>
+    <color name="image_background">#FDFBFC</color>
+    <color name="radio_select">#F81F6E</color>
+    <color name="radio_unselect">#F597B9</color>
+    <color name="dialog_divider">#56C0E8</color>
+    <color name="dialog_bottom_divider_line">#E9E9E9</color>
+    <color name="alert_btn_color">#33B5E5</color>
+    <color name="yellow_color">#FFBF25</color>
+    
+</resources>
